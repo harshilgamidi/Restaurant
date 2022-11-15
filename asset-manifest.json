@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Restaurant/static/css/main.d714ba87.chunk.css",
+    "main.js": "/Restaurant/static/js/main.5c2ec0fc.chunk.js",
+    "main.js.map": "/Restaurant/static/js/main.5c2ec0fc.chunk.js.map",
+    "runtime-main.js": "/Restaurant/static/js/runtime-main.4b8c705a.js",
+    "runtime-main.js.map": "/Restaurant/static/js/runtime-main.4b8c705a.js.map",
+    "static/js/2.675d33f1.chunk.js": "/Restaurant/static/js/2.675d33f1.chunk.js",
+    "static/js/2.675d33f1.chunk.js.map": "/Restaurant/static/js/2.675d33f1.chunk.js.map",
+    "index.html": "/Restaurant/index.html",
+    "static/css/main.d714ba87.chunk.css.map": "/Restaurant/static/css/main.d714ba87.chunk.css.map",
+    "static/js/2.675d33f1.chunk.js.LICENSE.txt": "/Restaurant/static/js/2.675d33f1.chunk.js.LICENSE.txt",
+    "static/media/Biriyani1.cc4d3e9f.jpg": "/Restaurant/static/media/Biriyani1.cc4d3e9f.jpg",
+    "static/media/Biriyani2.5541d112.jpg": "/Restaurant/static/media/Biriyani2.5541d112.jpg",
+    "static/media/ChickenStarter1.0c44df6e.jpg": "/Restaurant/static/media/ChickenStarter1.0c44df6e.jpg",
+    "static/media/Customer1.bcd690cd.jpg": "/Restaurant/static/media/Customer1.bcd690cd.jpg",
+    "static/media/Customer2.4dedf48a.jpg": "/Restaurant/static/media/Customer2.4dedf48a.jpg",
+    "static/media/Customer3.be0953c4.jpg": "/Restaurant/static/media/Customer3.be0953c4.jpg",
+    "static/media/Dessert1.a5849a9a.jpg": "/Restaurant/static/media/Dessert1.a5849a9a.jpg",
+    "static/media/Food.c7306c7b.jpg": "/Restaurant/static/media/Food.c7306c7b.jpg",
+    "static/media/HeroDesign.70d4607c.png": "/Restaurant/static/media/HeroDesign.70d4607c.png",
+    "static/media/IceCream.811acfee.jpg": "/Restaurant/static/media/IceCream.811acfee.jpg",
+    "static/media/portfolio.37317f30.jpg": "/Restaurant/static/media/portfolio.37317f30.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b8c705a.js",
+    "static/js/2.675d33f1.chunk.js",
+    "static/css/main.d714ba87.chunk.css",
+    "static/js/main.5c2ec0fc.chunk.js"
+  ]
+}
